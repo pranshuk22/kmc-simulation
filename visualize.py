@@ -188,8 +188,8 @@ if __name__ == "__main__":
     print("✅ Data loaded successfully. Launching visualizer...")
 
     # Launch the interactive plot
-    plot = LatticePlot(simulation_data)
-    plot.show()
+    # plot = LatticePlot(simulation_data)
+    # plot.show()
     
     # Launch the particle count plots
     plot_particle_count(simulation_data)

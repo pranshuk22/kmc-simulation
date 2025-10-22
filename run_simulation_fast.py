@@ -200,7 +200,7 @@ class KMCSimulation:
 if __name__ == "__main__":
     # Simulation Parameters
     LATTICE_SIZE = 20
-    TOTAL_TIME = 1000
+    TOTAL_TIME = 10000
     RANDOM_SEED = 42
 
     # --- Stripe Configuration ---
