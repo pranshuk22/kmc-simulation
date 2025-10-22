@@ -1,0 +1,40 @@
+--- KMC Simulation Analysis Report ---
+
+--- Overall Lattice Statistics ---
+Total Simulation Time:        10000.00
+Total Lattice Sites:          400 (20x20)
+Avg. Particle Count (Full):   199.61
+Avg. Particle Count (Last 25%): 199.79
+Avg. Density (Full):          0.4990 particles/site
+Avg. Density (Last 25%):      0.4995 particles/site
+Time to Reach Avg. (First):   24.01
+Variance (Post-First Avg.):   52.37
+Std. Dev. (Post-First Avg.):  7.24
+Fluctuation Coeff (Std/Mean): 0.0362
+
+--- Per-Stripe Statistics ---
+
+[Stripe 0 (x = 0 to 9, 200 sites)]
+  Avg. Count (Full):            152.88
+  Avg. Count (Last 25%):        152.97
+  Avg. Density (Full):          0.7644 particles/site
+  Avg. Density (Last 25%):      0.7649 particles/site
+  Time to Reach Avg. (First):   23.01
+  Variance (Post-First Avg.):   30.33
+  Std. Dev. (Post-First Avg.):  5.51
+  Fluctuation Coeff (Std/Mean): 0.0360
+
+[Stripe 1 (x = 10 to 19, 200 sites)]
+  Avg. Count (Full):            46.74
+  Avg. Count (Last 25%):        46.81
+  Avg. Density (Full):          0.2337 particles/site
+  Avg. Density (Last 25%):      0.2341 particles/site
+  Time to Reach Avg. (First):   13.01
+  Variance (Post-First Avg.):   29.33
+  Std. Dev. (Post-First Avg.):  5.42
+  Fluctuation Coeff (Std/Mean): 0.1158
+
+--- Trajectory Statistics ---
+Total Unique Particles Served: 400
+Avg. Hops per Particle:        7235.03
+Max. Hops by a Particle:       8127
